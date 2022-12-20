@@ -31,7 +31,7 @@ I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gam
 #### Social stuff 👀   
 - [![](https://img.shields.io/website?label=Website&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABIAAAASCAQAAAD8x0bcAAABBElEQVQoz5XSvS6DARjF8WeSWGmxC5FWiXvxFeE6qMV7CcLUpkQEHSUkEpFI3AKL1Uf1ElpFfwbavFVLz%2FzPOef5iBhUxqwqKlqW%2BR%2BYcOxDRy0Hsn%2BReXUNJzh3gWNNr%2FJpZFzdk7zElyk5bdsKXrymYh1pyEV4dB0R4dZDhIKmSgfJprr8VevXywp2JaooSSQqOJXYw9IPVMRQhA1MRkSYxlqEYWz1Quv%2FQpv9ceWeuH0s%2FkAZrW7Rtk%2Bf2qnio535DjXkIzy6iYhw5z7CvKZy%2BmY1L%2Bbs%2BDJjFkUL3jx3fSIiFNS8q%2BLSFc60PMv1f8BhaqnvSj0uKTBr2ZZNi0YG%2FrNv0W07rO%2BaOYsAAAAASUVORK5CYII%3D&logoColor=white&url=https%3A%2F%2Fphoenix616.dev)](https://phoenix616.dev)
 - [![](https://img.shields.io/keybase/pgp/phoenix616?color=3964E8&label=Keybase&logo=keybase&logoColor=white)](https://keybase.phoenix616.dev)
-- [![](https://img.shields.io/mastodon/follow/000073197?color=3088D4&domain=https%3A%2F%2Fsocial.tchncs.de&label=Mastodon&logo=mastodon&logoColor=white&style=flat)](https://mastodon.phoenix616.dev)
+- [![](https://img.shields.io/mastodon/follow/000073197?color=6364FF&domain=https%3A%2F%2Fsocial.tchncs.de&label=Mastodon&logo=mastodon&logoColor=white&style=flat)](https://mastodon.phoenix616.dev)
 - [![](https://img.shields.io/twitter/follow/the_moep?color=23A0EE&label=Twitter&logo=twitter&logoColor=white&style=flat)](https://twitter.phoenix616.dev)
 - [![](https://img.shields.io/twitch/status/the_moep?label=Twitch&logo=twitch&logoColor=white)](https://tmtwitch.phoenix616.dev)
 - [![](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&color=FD0000)](https://yt.phoenix616.dev)
