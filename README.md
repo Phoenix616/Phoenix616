@@ -36,6 +36,7 @@ I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gam
 - [![](https://img.shields.io/twitch/status/the_moep?label=Twitch&logo=twitch&logoColor=white)](https://tmtwitch.phoenix616.dev)
 - [![](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&color=FD0000)](https://yt.phoenix616.dev)
 - [![](https://img.shields.io/badge/SpigotMC-org-EE8A18?logo=data:image/png;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAND/AOhGOgA/6OIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAAAABEAAAAzMQABEQAAARMzEBERARERETMxERAAAAARMzEAAAAAAAETMwAAAAAAABEwAAAAAAAAERAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAD/+QAA//kAAP/5AAD/8AAA+DAAAPAgAAAAAAAAAAEAAAADAADwDwAA/B8AAPwfAAD8HwAA/j8AAP4/AADwBwAA)](https://spigot.phoenix616.dev)
+- [![](https://img.shields.io/badge/%23phoenix616-irc.esper.net-ddd)](https://irc.phoenix616.dev)
 - [![](https://img.shields.io/discord/443872466717114369?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://phoenix616.dev/discord)
 
 #### Money 🤑
