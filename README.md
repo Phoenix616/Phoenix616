@@ -19,13 +19,7 @@ I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gam
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix616&&show_icons=true&theme=dark&count_private=true)
 
-<a href="https://star-history.com/#chestshop-authors/chestshop-3&phoenix616/minedown&phoenix616/inventorygui&Phoenix616/Snap&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=chestshop-authors/chestshop-3,phoenix616/minedown,phoenix616/inventorygui,Phoenix616/Snap&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=chestshop-authors/chestshop-3,phoenix616/minedown,phoenix616/inventorygui,Phoenix616/Snap&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chestshop-authors/chestshop-3,phoenix616/minedown,phoenix616/inventorygui,Phoenix616/Snap&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=chestshop-authors/chestshop-3,phoenix616/minedown,phoenix616/inventorygui,Phoenix616/Snap&type=Date&theme=dark)](https://star-history.com/#chestshop-authors/chestshop-3&phoenix616/minedown&phoenix616/inventorygui&Phoenix616/Snap&Date)
 
 #### Stuff I like 👍
 - 🦙 Llamas!
