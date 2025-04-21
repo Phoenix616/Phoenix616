@@ -44,7 +44,6 @@ I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gam
 - [![](https://img.shields.io/badge/SpigotMC-org-EE8A18?logo=data:image/png;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAND/AOhGOgA/6OIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAACIAAAAAAAAAIgAAAAAAAAAAAAAAAAAAABEAAAAzMQABEQAAARMzEBERARERETMxERAAAAARMzEAAAAAAAETMwAAAAAAABEwAAAAAAAAERAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAD/+QAA//kAAP/5AAD/8AAA+DAAAPAgAAAAAAAAAAEAAAADAADwDwAA/B8AAPwfAAD8HwAA/j8AAP4/AADwBwAA)](https://spigot.phoenix616.dev)
 - [![](https://img.shields.io/badge/irc.esper.net-%23phoenix616-ddd?logo=googlechat&logoColor=white)](https://irc.phoenix616.dev)
 - [![](https://img.shields.io/discord/443872466717114369?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://phoenix616.dev/discord)
-- [![](https://img.shields.io/keybase/pgp/phoenix616?color=3964E8&label=Keybase&logo=keybase&logoColor=white)](https://keybase.phoenix616.dev)
 
 #### Money 🤑
 Development costs time and almost all my work is open source! If you too believe in the massive value of open source software and want to support me directly then I would highly appreciate that!
