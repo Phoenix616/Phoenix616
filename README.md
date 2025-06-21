@@ -1,8 +1,12 @@
+> [!IMPORTANT]
+> Repositories for new projects will be hosted on [Codeberg](https://codeberg.org/Phoenix616), not GitHub.
+> Existing repos will be moved in the next couple months.
+
 ### Hi! 👋
 
-My name is Max, I am a German software engineer and fan of open source, decentralization and llamas.
+My name is Max, I am a German software engineer and fan of video games, free software, decentralization and llamas.
 
-I am creating lots of different open source stuff out of pizza and beer, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! 😊
+I am creating lots of different stuff out of pizza and mate, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! 😊
 
 Most of the projects are done for my own (completely free) survival Minecraft server [Minebench.de](https://minebench.phoenix616.dev). (Lots of its code can be found [here](https://github.com/Minebench) and is open source too!) I have also written a good amount of Minecraft related libraries like [InventoryGui](https://github.com/Phoenix616/InventoryGui), [MineDown](https://github.com/Phoenix616/MineDown) and [lang](https://github.com/Phoenix616/lang) and am currently maintaining [ChestShop 3](https://github.com/ChestShop-authors/ChestShop-3) and [TravelPortals](https://github.com/cppchriscpp/TravelPortals). On top of all of these projects I contributed to Bukkit, Spigot and Paper too! (See my own Paper fork [Origami](https://github.com/Minebench/Origami/) for even more experimental patches!)
 
