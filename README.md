@@ -1,6 +1,17 @@
-> [!IMPORTANT]
-> Repositories for new projects will be hosted on [Codeberg](https://codeberg.org/Phoenix616), not GitHub.
-> Existing repos will be moved in the next couple months.
+> [!WARNING]
+> ## Leaving GitHub
+>
+> GitHub's CEO wants me to "[embrace AI or get out](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)". So I'm leaving.
+>Existing repos will be moved in the next couple weeks.
+>
+> I am only on GitHub by necessity; if your project is still here, I'd ask you to reconsider one of the other options out there.
+>
+> Find me here:
+>
+> * <https://codeberg.org/Phoenix616>
+> * <https://phoenix616.dev>
+> * <https://crafter.social/@Phoenix616>
+> * <https://tube.moep.tv/c/Phoenix616>
 
 ### Hi! 👋
 
