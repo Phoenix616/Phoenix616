@@ -1,8 +1,8 @@
-> [!WARNING]
+> [!CAUTION]
 > ## Leaving GitHub
 >
-> GitHub's CEO wants me to "[embrace AI or get out](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)". So I'm leaving.
->Existing repos will be moved in the next couple weeks.
+> GitHub wants me to "[embrace AI or get out](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)". So I'm leaving.
+>Existing repos will be moved in the next couple weeks!
 >
 > I am only on GitHub by necessity; if your project is still here, I'd ask you to reconsider one of the other options out there.
 >
