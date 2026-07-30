@@ -2,7 +2,7 @@
 > ## Leaving GitHub
 >
 > GitHub wants me to "[embrace AI or get out](https://www.businessinsider.com/github-ceo-developers-embrace-ai-or-get-out-2025-8)". So I'm leaving.
->Existing repos will be moved in the next couple weeks!
+>Existing repos will all hopefully be moved until the end of 2026!
 >
 > I am only on GitHub by necessity; if your project is still here, I'd ask you to reconsider one of the other options out there.
 >
@@ -25,7 +25,7 @@ Most of the projects are done for my own (completely free) survival Minecraft se
 
 ![](https://badges.phoenix616.dev/Minebench.svg) ![](https://badges.phoenix616.dev/SpigotStaffing.svg) ![](https://badges.phoenix616.dev/ChestShop.svg) ![](https://badges.phoenix616.dev/Server.svg)
 
-I also stream on [Twitch.tv](https://tmtwitch.phoenix616.dev), normally it's gaming but you might catch me coding on Minecraft stuff as well! I usually just stream in my native language German but I have communicated in English for more than half of my life so just ask and hang out!
+I also stream on [Peertube](https://tube.moep.tv/c/moeptv/), [Twitch](https://tmtwitch.phoenix616.dev), and [YouTube](https://youtube.moep.tv). Normally it's gaming but you might catch me coding on Minecraft stuff as well! I usually just stream in my native language German but I have communicated in English for more than half of my life so just ask and hang out!
 
 <details>
   <summary><b>Even more about me</b></summary>
