@@ -15,7 +15,7 @@
 
 ### Hi! 👋
 
-My name is Max, I am a German software engineer and fan of video games, free software, decentralization and llamas.
+My name is Maxine, I am a German software engineer and fan of video games, free software, decentralization and llamas.
 
 I am creating lots of different stuff out of pizza and mate, mostly in Java and for Minecraft but I have some other random projects as well, just check out [my repos](https://github.com/Phoenix616?tab=repositories)! 😊
 
